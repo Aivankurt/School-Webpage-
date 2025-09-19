@@ -16,18 +16,22 @@
   <p>
     Our mission is to nurture lifelong learners and responsible citizens
   </p>
+
   <h2 id="upcoming-events" style="color: #5ec72e; background-color: #FFFFE0; padding: 6px; border-radius: 5px; margin-top: 25px;">
     Upcoming Events
   </h2>
-  
-  <ul style="list-style: none; padding: 0;">
-    <li data-event-type="indoor" title="Event Type: Indoor" style="margin: 8px 0; padding: 5px;">
+
+  <ul style="list-style-type: padding-left: 20px;">
+    <li data-event-type="indoor" title="Event Type: Indoor" 
+    style="margin: 8px 0; padding: 5px;">
       Science Fair - <span style="font-weight: bold; color: red;">June 10</span></li>
+    
     <li class="outdoor" data-event-type="outdoor" title="Event Type: Outdoor" 
-        style="margin: 8px 0; padding: 6px; background-color: #AFEEEE; border: 1px solid #B0E0E6; border-radius: 4px;">
+        style="list-style: 8px 0; padding: 6px; background-color: #AFEEEE; border: 1px solid #B0E0E6; border-radius: 4px;">
       Art Exhibition - <span style="font-weight: bold; color: red;">June 15</span></li>
-    <li class="outdoor" data-event-type="outdoor" title="Event Type: Outdoor" 
-        style="list-style: none; padding: 0;">
+
+    <li class="outdoor" data-event-type="outdoor" title="Event Type: Outdoor"
+        style="list-style: 8px 0; padding: 6px;">
       Sports Day - <span style="font-weight: bold; color: red;">June 20</span></li>
   </ul>
 
