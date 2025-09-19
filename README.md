@@ -27,11 +27,11 @@
       Science Fair - <span style="font-weight: bold; color: red;">June 10</span></li>
     
     <li class="outdoor" data-event-type="outdoor" title="Event Type: Outdoor" 
-        style="list-style: 8px 0; padding: 6px; background-color: #AFEEEE; border: 1px solid #B0E0E6; border-radius: 4px;">
+        style="list-style-type: padding-left: 20px; background-color: #AFEEEE; border: 1px solid #B0E0E6; border-radius: 4px;">
       Art Exhibition - <span style="font-weight: bold; color: red;">June 15</span></li>
 
     <li class="outdoor" data-event-type="outdoor" title="Event Type: Outdoor"
-        style="list-style: 8px 0; padding: 6px;">
+        style="list-style-type: padding-left: 20px;">
       Sports Day - <span style="font-weight: bold; color: red;">June 20</span></li>
   </ul>
 
